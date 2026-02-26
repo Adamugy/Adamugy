@@ -47,4 +47,3 @@ Atualmente atuando como **Software Engineer**, sou mestrando em **Engenharia e C
 
 * **Computer Vision:** Classificação de glaucoma via CNNs (DenseNet121).
 * **Fintech:** Modelagem preditiva LSTM para câmbio EUR/MZN.
-* **E-commerce:** Gestão técnica e arquitetura da SmartGear.pt.
