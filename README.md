@@ -3,7 +3,7 @@
 
 **`Software Engineer | Mestrando em Engenharia e Ciência de Dados`**
 
-Atualmente atuando como **Software Engineer**, sou mestrando em **Engenharia e Ciência de Dados** pela **UTAD** (Universidade de Trás-os-Montes e Alto Douro), em Vila Real, Portugal. Tenho formação base em Engenharia de Computadores e Telecomunicações e foco minha carreira na intersecção entre desenvolvimento de software, Machine Learning e infraestrutura Cloud/DevOps.Fiz um site de organização de recursos e artigos académicos para estudantes universitários com chat AI do gemini 2.5 pro e com TypeScript e React esta disponivel no github e no site '[nvaulty.online](https://nvaulty.online/)'. Estou desenvolvendo a **SmartGear** ([https://smartgear.pt/](https://smartgear.pt/)), uma e-commerce de tecnologia com foco em soluções acessíveis e design minimalista.
+Atualmente atuando como **Software Engineer**, sou mestrando em **Engenharia e Ciência de Dados** pela **UTAD** (Universidade de Trás-os-Montes e Alto Douro), em Vila Real, Portugal. Tenho formação base em Engenharia de Computadores e Telecomunicações e foco minha carreira na intersecção entre desenvolvimento de software, Machine Learning e infraestrutura Cloud/DevOps.Fiz um site de organização de recursos e artigos académicos para estudantes universitários com chat AI do gemini 2.5 pro e com TypeScript e React esta disponivel no github e no site '[nvaulty.online](https://nvaulty.online/)'.
 
 <p align="left">
     <a href="https://github.com/adamugy">
